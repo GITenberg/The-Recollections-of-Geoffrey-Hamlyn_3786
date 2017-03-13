@@ -1,5 +1,8 @@
 _repo: The-Recollections-of-Geoffrey-Hamlyn_3786
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Henry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1304
     wikipedia: http://en.wikipedia.org/wiki/Henry_Kingsley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3786#The-Recollections-of-Geoffrey-Hamlyn
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
 identifiers:
